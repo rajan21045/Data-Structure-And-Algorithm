@@ -12,6 +12,7 @@ void show();
 
 int main() {
     int choice;
+    
     while (1) {
         printf("\nOPERATIONS PERFORMED BY STACK\n");
         printf("1. PUSH THE ELEMENT\n2. POP THE ELEMENT\n3. SHOW THE ELEMENT\n4. EXIT\n");
@@ -32,16 +33,21 @@ int main() {
                 exit(0);
             default:
                 printf("\nPLEASE ENTER A VALID CHOICE\n");
+                
         }
     }
+    
     return 0;
 }
 
 void Push() {
     int x;
+    
     if (Top == size - 1) {
+        
         printf("\nSTACK OVERFLOW\n");
     } else {
+        
         printf("\nENTER THE ELEMENT TO BE INSERTED INTO THE STACK: ");
         scanf("%d", &x);
         Top = Top + 1;
@@ -51,8 +57,10 @@ void Push() {
 
 void Pop() {
     if (Top == -1) {
+        
         printf("\nSTACK UNDERFLOW\n");
     } else {
+        
         printf("\nPOPPED ELEMENT IS: %d\n", inp_array[Top]);
         Top = Top - 1;
     }
@@ -60,12 +68,15 @@ void Pop() {
 
 void show() {
     if (Top == -1) {
+        
         printf("\nSTACK IS EMPTY\n");
     } else {
+        
         printf("\nELEMENTS PRESENT IN THE STACK ARE:\n");
         int i;
         for (i = Top; i >= 0; --i) {
             printf("%d\n", inp_array[i]);
+            
         }
     }
 }
