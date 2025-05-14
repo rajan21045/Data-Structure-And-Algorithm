@@ -6,6 +6,7 @@ int linearsearch(int arr[], int size, int item) {
             return i; // Return the index if found
         }
     }
+    
     return -1; // Return -1 if not found
 }
 
@@ -15,8 +16,8 @@ int main() {
     printf("Enter the number of elements in the array: ");
     scanf("%d", &n);
     int arr[n];
-    printf("Enter the elements of the array: ");
     
+    printf("Enter the elements of the array: ");
     for (int i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
     }
