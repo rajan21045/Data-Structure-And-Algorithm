@@ -24,6 +24,7 @@ void DFS(int vertex) {
     
     // Recur for all the neighbors of this vertex
     for (int i = 0; i < degree[vertex]; i++) {
+        
         int neighbour = graph[vertex][i];
         if (!visited[neighbour]) { // If neighbor is not visited, recurse
             DFS(neighbour);
