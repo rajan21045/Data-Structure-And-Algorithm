@@ -46,13 +46,15 @@ void Push() {
     if (Top == size - 1) {
         
         printf("\nSTACK OVERFLOW\n");
-    } else {
-        
+    } 
+    
+    else {
         printf("\nENTER THE ELEMENT TO BE INSERTED INTO THE STACK: ");
         scanf("%d", &x);
         Top = Top + 1;
         inp_array[Top] = x;
     }
+    
 }
 
 void Pop() {
