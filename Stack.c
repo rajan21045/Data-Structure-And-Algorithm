@@ -1,4 +1,4 @@
-/* Write a C program to implement a stack with push, pop, and display operations. */
+ /* Write a C program to implement a stack with push, pop, and display operations. */
 
 #include <stdio.h>
 #include <stdlib.h>
