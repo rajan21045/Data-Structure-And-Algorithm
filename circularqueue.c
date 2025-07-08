@@ -4,7 +4,7 @@
 #define SIZE 5
 
 int queue[SIZE], front = -1, rear = -1;
-
+ 
 // Function to check if the queue is full
 int isFull() {
     return (front == 0 && rear == SIZE - 1) || (front == rear + 1);
