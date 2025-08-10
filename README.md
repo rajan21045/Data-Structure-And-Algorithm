@@ -67,5 +67,29 @@ I'll post **what I learn by self-study** and **what our sir teaches in class**, 
 - Solve 300+ DSA problems in C
 - Learn advanced algorithms (Dynamic Programming, Graph algorithms)
 
+--- 
+
 # 📎 Example quick snippet (save as implementations/arrays/insert.c)
+
+#include <stdio.h>
+int main() {
+    int arr[5] = {1, 2, 4, 5};
+    int n = 4; // current size
+    int pos = 2; // index to insert
+    int val = 3;
+    for (int i = n; i > pos; i--) {
+        arr[i] = arr[i - 1];
+    }
+    arr[pos] = val;
+    n++;
+    for (int i = 0; i < n; i++) {
+        printf("%d ", arr[i]);
+    }
+    return 0;
+}
+---
+
+# 🪪 License
+
+This repo is for personal learning. Use code freely but please add attribution if you copy large parts.
 
