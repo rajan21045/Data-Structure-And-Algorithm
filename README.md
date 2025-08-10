@@ -71,6 +71,7 @@ I'll post **what I learn by self-study** and **what our sir teaches in class**, 
 
 # 📎 Example quick snippet (save as implementations/arrays/insert.c)
 
+```
 #include <stdio.h>
 int main() {
     int arr[5] = {1, 2, 4, 5};
@@ -87,6 +88,7 @@ int main() {
     }
     return 0;
 }
+```
 ---
 
 # 🪪 License
