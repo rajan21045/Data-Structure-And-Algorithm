@@ -53,4 +53,19 @@ I'll post **what I learn by self-study** and **what our sir teaches in class**, 
 
 ---
 
+# 🎯 Goals & roadmap
+
+•	Short-term:
+- Learn and implement basic data structures in C (Array, Stack, Queue, Linked List)
+- Understand complexity analysis (Big-O notation)
+
+•	Mid-term:
+- Implement trees, heaps, hash tables, graphs in C
+- Learn and implement searching & sorting algorithms
+
+•	Long-term:
+- Solve 300+ DSA problems in C
+- Learn advanced algorithms (Dynamic Programming, Graph algorithms)
+
+# 📎 Example quick snippet (save as implementations/arrays/insert.c)
 
