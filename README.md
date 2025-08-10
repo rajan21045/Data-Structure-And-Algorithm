@@ -38,8 +38,19 @@ I'll post **what I learn by self-study** and **what our sir teaches in class**, 
 
 ---
 # ✅ Commit & branch guidelines
-	•	Branches: main (stable), dev (work-in-progress)
-	•	Commit format: type(scope): short description
+1. Branches: main (stable), dev (work-in-progress)
+2. Commit format: type(scope): short description
     - Example: feat(stack): add push and pop in C
     - Types: feat, fix, docs, chore, refactor, test
 ---
+# 📚 Resources I use
+- [GeeksforGeeks](https://www.geeksforgeeks.org
+- [LeetCode](https://leetcode.com)
+- [HackerRank](https://www.hackerrank.com
+- Class notes from sir
+- Book: Data Structures Using C by Reema Thareja
+- Book: Let Us C by Yashavant Kanetkar
+
+---
+
+
