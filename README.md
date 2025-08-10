@@ -48,8 +48,7 @@ I'll post **what I learn by self-study** and **what our sir teaches in class**, 
 - [LeetCode](https://leetcode.com)
 - [HackerRank](https://www.hackerrank.com)
 - Class notes from sir
-- Book: Data Structures Using C by Reema Thareja
-- Book: Let Us C by Yashavant Kanetkar
+- Book: Data Structures and Algorithms by Bhupendra Singh Saud
 
 ---
 
