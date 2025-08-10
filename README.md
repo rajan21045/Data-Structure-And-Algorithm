@@ -37,7 +37,7 @@ I'll post **what I learn by self-study** and **what our sir teaches in class**, 
    - [GeeksforGeeks](https://www.geeksforgeeks.org)
 
 ---
-#✅ Commit & branch guidelines
+# ✅ Commit & branch guidelines
 	•	Branches: main (stable), dev (work-in-progress)
 	•	Commit format: type(scope): short description
     - Example: feat(stack): add push and pop in C
