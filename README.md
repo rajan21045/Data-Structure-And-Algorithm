@@ -11,7 +11,7 @@ I'll post **what I learn by self-study** and **what our sir teaches in class**, 
   - **Data Structures** — ways of organizing and storing data for efficient access and modification (e.g., Arrays, Linked Lists, Trees, Graphs).  
   - **Algorithms** — step-by-step procedures or formulas for solving problems efficiently.  
 - **Why it’s important:** DSA is the backbone of efficient programming, essential for writing optimized code, and a key skill for technical interviews.
-  
+
 ---
 
 # 📌 What this repo is for
