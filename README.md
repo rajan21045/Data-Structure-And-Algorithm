@@ -19,7 +19,7 @@ I'll post **what I learn by self-study** and **what our sir teaches in class**, 
 - Save **classwork and assignments** given by sir.
 - Keep **practice problems and challenges** solved by self-study.
 - Maintain a **learning log** to track topics covered and progress.
-
+ 
 ---
 
 # 🚀 Getting started
