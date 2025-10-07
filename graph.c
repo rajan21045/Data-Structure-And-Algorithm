@@ -31,7 +31,7 @@ void DFS(int vertex) {
         }
     }
 }
-
+ 
 int main() {
     printf("DFS traversal starting from vertex 0:\n");
     DFS(0);  // Start DFS traversal from vertex 0
