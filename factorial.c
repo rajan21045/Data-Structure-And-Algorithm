@@ -8,7 +8,7 @@ long long factorial(int n) {
     else
         return n * factorial(n - 1);
 }
-
+ 
 int main() {
     int num;
     printf("Enter a number: ");
