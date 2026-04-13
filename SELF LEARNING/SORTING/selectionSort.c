@@ -14,7 +14,7 @@ To implement the Selection Sort algorithm in a programming language, we need:
     1. An array with values to sort.
     2. An inner loop that goes through the array, finds the lowest value, and moves it to the front of the array. This loop must loop through one less value each time it runs.
     3. An outer loop that controls how many times the inner loop must run. For an array with n values, this outer loop must run n − 1 times.
-
+ 
 The resulting code looks like this:
 */
 #include<stdio.h>
