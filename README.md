@@ -23,7 +23,7 @@ I'll post **what I learn by self-study** and **what our sir teaches in class**, 
 ---
 
 # 🚀 Getting started
-1. **Pick a programming language** — I am using **C** for all implementations.  
+1. **Pick a programming language** — I am using **C** and **Java** for all implementations.  
    (You can also use Java, C++, Python, etc., but this repo focuses on C.)
 2. **Follow the learning flow**:
    - **Step 1:** Understand the concept (from sir’s lectures or self-study).
