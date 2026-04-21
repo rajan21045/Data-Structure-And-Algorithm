@@ -1,1 +1,69 @@
+# logic-workbook
 
+![problems](https://img.shields.io/badge/300%2B_problems-logic-7F77DD?style=flat-square)
+![status](https://img.shields.io/badge/status-in_progress-1D9E75?style=flat-square)
+![language-agnostic](https://img.shields.io/badge/language-agnostic-888780?style=flat-square)
+
+A structured workbook of 300+ logic-building exercises that develop the mental models required for Data Structures & Algorithms — from boolean decisions to integrated applied logic.
+
+> Part of [Data-Structure-And-Algorithm](https://github.com/rajan21045/Data-Structure-And-Algorithm)
+
+---
+
+## About
+
+This folder tracks my progress through *The Programming Logic Workbook*. Solutions are language-agnostic in logic but implemented in the language of my choice per gate. The goal isn't syntax — it's building the ability to think in steps before writing a single line of code.
+
+---
+
+## Approach
+
+- Logic over syntax — understand the *why* before the *how*
+- 10 problems per day — consistency beats intensity
+- Reduce steps — optimize after you solve
+
+---
+
+## Structure
+
+| Gate | Topic | Problems |
+|------|-------|----------|
+| Gate 1 | Decisions & Boolean Logic | Q1 – Q50 |
+| Gate 2 | Repetition & Iterative Flows | Q51 – Q100 |
+| Gate 3 | Recursive Logic Patterns | Q101 – Q140 |
+| Gate 4 | Linear Data Logic (Arrays) | Q141 – Q190 |
+| Gate 5 | Text Processing Logic (Strings) | Q191 – Q240 |
+| Gate 6 | Integrated Applied Logic | Q241 – Q300 |
+
+---
+
+## 30-Day Plan
+
+| Phase | Focus | Target |
+|-------|-------|--------|
+| Days 1–5 | Decision Making | 10 q/day |
+| Days 6–10 | Iteration & Loops | 10 q/day |
+| Days 11–15 | Recursive Thinking | 8 q/day |
+| Days 16–20 | Array Manipulation | 10 q/day |
+| Days 21–25 | String Processing | 10 q/day |
+| Days 26–30 | Integrated Logic | 12 q/day |
+
+---
+
+## Folder Structure
+
+```
+Data-Structure-And-Algorithm/
+└── logic-workbook/
+    ├── gate-1-decisions/
+    ├── gate-2-iteration/
+    ├── gate-3-recursion/
+    ├── gate-4-arrays/
+    ├── gate-5-strings/
+    ├── gate-6-applied/
+    └── README.md
+```
+
+---
+
+*Tribhuvan University · BCA 5th Sem · Lumbini ICT Campus*
